@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanyog Dongre
-- 👀 I’m interested in Web Development.
+- 👀 I’m a Web Developer.
 - 🌱 I’m currently studying at IIT ISM Dhanbad.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
